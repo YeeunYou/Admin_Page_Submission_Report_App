@@ -1,0 +1,54 @@
+#wrap{
+	width:50%;
+	margin: 0 auto; 
+	font-family: 'Raleway', sans-serif;  
+}
+
+h2{
+	color: 	#ff794d;
+	font-size: 2.5em;
+}
+h3{
+	font-size: 1.5em;
+	color:red;
+}
+
+input{ 
+	width: 300px;
+} 
+
+#submit{
+	width: 200px;
+	background-color: #ff794d;
+	border-radius: 10px; 
+	border: 1px solid white; 
+	font-size: 1.3em;
+	color:white;
+	height: 45px;
+	margin-bottom: 20px;
+} 
+label{
+	text-decoration: underline;
+	font-weight: bold;
+}
+table th{
+	border-bottom: 3px solid black;
+	padding-bottom: 10px;
+}
+a{
+	text-decoration: none;
+} 
+#new{ 
+	color:#4d4dff;
+}
+
+#delete{
+	font-weight: bold;
+	padding-right: 10px;
+	color: 	#ff4d4d;
+}
+
+#edit{
+	font-weight: bold;
+	color:#d24dff;
+}
